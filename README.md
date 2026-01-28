@@ -18,5 +18,5 @@ This project demonstrates a simple CI/CD pipeline using GitHub Actions.
 
 \## Live Site
 
-https://sammoline.github.io/gh-deployment-workflow/
+https://sammoline.github.io/github-deployment-workflow/
 
